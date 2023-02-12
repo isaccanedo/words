@@ -1,4 +1,4 @@
-# hunting-words
+# Words
 
 Package of functions that help to create hunting word game.
 
@@ -55,12 +55,3 @@ createLetter
   setIsSelected: ƒ (isSelected)
 }
 ```
-
-
-<!-- ⛔️ AUTO-GENERATED-CONTENT:START (CONTRIBUTORS) -->
-| **Contributor** |  
-| --- |  
-| [rogeriomattos](https://github.com/rogeriomattos) | 
-| [TigreDoMexico](https://github.com/TigreDoMexico) | 
-
-<!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
