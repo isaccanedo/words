@@ -1,4 +1,4 @@
-# Words
+## Words
 
 Package of functions that help to create hunting word game.
 
